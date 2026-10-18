@@ -1,5 +1,6 @@
+ ```text
 Dapo Companion End-User License Agreement (EULA) & Terms of Use
-Copyright (c) 2026 Muhamad Ramdani Hidayatullah (MRH). All rights reserved.
+Copyright (c) 2025 Muhamad Ramdani Hidayatullah (MRH). All rights reserved.
 
 PENTING — BACA DENGAN SEKSAMA SEBELUM MENGUNDUH ATAU MENGGUNAKAN APLIKASI:
 
