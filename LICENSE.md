@@ -64,4 +64,4 @@ PENGGUNA BERTANGGUNG JAWAB PENUH ATAS BACKUP DAN INTEGRITAS DATA MASING-MASING.
 
 - **Pengembang**: Muhamad Ramdani Hidayatullah (MRH)
 - **Repository Publik / Rilis**: [GitHub Releases & Repository](https://github.com/mrh275)
-- **Donasi / Dukungan Pengembangan**: [Saweria](https://saweria.co/edukode)
+- **Donasi / Dukungan Pengembangan**: [Saweria EduKode](https://saweria.co/edukode)
